@@ -38,7 +38,12 @@ coverage, claim amount, policy status, and claim distribution**.
 
 ---
 ## Dashboard
-![INSURANCE DATA](dashboard_images/Overview.png)
+## 🎥 Dashboard Demo
+
+If you want to **Play Dashboard Record Video**, click below 👇
+
+[![Insurance Dashboard Demo](dashboard_images/Overview.png)](dashboard_images/Dashboard-Recording.mp4)
+
 
 ---
 ## 📈 Business Use Cases
